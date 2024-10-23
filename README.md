@@ -176,5 +176,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Below is an example of the web interface you will see after running the app locally:
 
-![Web Interface Example](./app/web-demo.png)  
+![Web Interface Example](./app/web-demo.jpeg)  
 *Web interface example showing emotion prediction from a user-uploaded image.*
