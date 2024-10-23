@@ -51,7 +51,7 @@ This model is trained on the **FER2013 dataset**. The dataset consists of **48x4
 
 Here’s a sample of the grayscale face images used for training:
 
-![FER2013 Sample Faces](https://storage.googleapis.com/kaggle-datasets-images/786787/1351797/89e6e907cb903b4f523bbd613e46b8a8/dataset-cover.png?t=2020-07-19-18-42-52)  
+![FER2013 Sample Faces](./app/dataset-cover.png)  
 *Sample faces from the FER2013 dataset across different emotion categories.*
 
 ---
