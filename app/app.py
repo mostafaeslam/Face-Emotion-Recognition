@@ -5,7 +5,7 @@ from keras.models import model_from_json
 from flask import Flask, request, render_template, redirect, url_for, jsonify
 from keras.mixed_precision import set_global_policy
 
-# Initialize Flask app
+# Initialize Flask app 
 app = Flask(__name__)
 
 # Define paths to files
@@ -38,7 +38,6 @@ def home():
         first_time = False
         return render_template('index.html', emotion="Upload an image")
 
-    app.logger.info('Processing image...')
 
     if request.method == 'POST':
         # Save uploaded image
